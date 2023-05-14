@@ -8,7 +8,7 @@ metadata:
     sonarqube.org/project-key: congestion-tax-calculator
   tags:
     - challenge
-    - dotNET
+    - dotnet
     - C#
 spec:
   type: lib
