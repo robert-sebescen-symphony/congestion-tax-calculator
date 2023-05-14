@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: congestion-tax-calculator
+  description: Challenge
+  annotations:
+    github.com/project-slug: robert-sebescen-symphony/congestion-tax-calculator
+    sonarqube.org/project-key: congestion-tax-calculator
+  tags:
+    - challenge
+    - .NET
+    - C#
+spec:
+  type: lib
+  lifecycle: experimental
+  owner: robert.sebescen
