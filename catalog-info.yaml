@@ -9,7 +9,7 @@ metadata:
   tags:
     - challenge
     - dotnet
-    - C#
+    - c-sharp
 spec:
   type: lib
   lifecycle: experimental
