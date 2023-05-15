@@ -13,4 +13,4 @@ metadata:
 spec:
   type: lib
   lifecycle: experimental
-  owner: robert.sebescen
+  owner: principals
